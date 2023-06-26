@@ -20,7 +20,6 @@ The project follows a structured approach as follows:
 
 ```
 diamond-price-prediction/
-├── .gitignore
 ├── conf/
 │   ├── base/
 │   │   └──
