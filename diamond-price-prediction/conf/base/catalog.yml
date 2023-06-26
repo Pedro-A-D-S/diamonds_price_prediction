@@ -1,0 +1,21 @@
+# Here you can define all your data sets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in "The Data Catalog"
+# Link: https://docs.kedro.org/en/stable/data/data_catalog.html
+
+diamonds:
+  type: pandas.CSVDataSet
+  filepath: data/01_raw/diamonds.csv
+
+outlier_removal_diamonds:
+  type: pandas.ParquetDataSet
+  filepath: data/02_intermediate/outlier_removal_diamonds.pq
+
+diamonds_preprocessed:
+  type: pandas.ParquetDataSet
+  filepath: data/02_intermediate/diamonds_preprocessed.pq
+
+regressor:
+  type: pickle.PickleDataSet
+  filepath: data/06_models/regressor.pickle
+  versioned: true
