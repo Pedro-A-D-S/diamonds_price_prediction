@@ -102,7 +102,7 @@ kedro viz
 
 This pipeline is divided in two main steps: data preprocessing and model training pipelines (both inside src/pipelines)
 
-![Pipeline](../diamond-price-prediction/img/pipeline.png)
+![Pipeline](/diamond-price-prediction/img/pipeline.png)
 
 ## Next Steps
 
