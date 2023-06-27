@@ -14,3 +14,7 @@ diamond-price-prediction/src/diamond_price_prediction/pipelines/data_processing/
 diamond-price-prediction/src/diamond_price_prediction/pipelines/data_science/__pycache__/__init__.cpython-310.pyc
 diamond-price-prediction/src/diamond_price_prediction/pipelines/data_science/__pycache__/nodes.cpython-310.pyc
 diamond-price-prediction/src/diamond_price_prediction/pipelines/data_science/__pycache__/pipeline.cpython-310.pyc
+diamond-price-prediction/data/05_model_input/X_test.pq
+diamond-price-prediction/data/05_model_input/X_train.pq
+diamond-price-prediction/data/05_model_input/y_test.csv
+diamond-price-prediction/data/05_model_input/y_train.csv
