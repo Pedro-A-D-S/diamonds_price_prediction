@@ -52,7 +52,7 @@ diamond-price-prediction/
 ├── notebooks/
 │   └── Diamonds.ipynb
 ├── logs/
-│   └── ...
+│   └── info.log
 ├── src/
 │   ├── diamond_price_prediction/
 │   │   ├── pipelines/
@@ -72,7 +72,7 @@ diamond-price-prediction/
 │   ├── test_run.py
 │   └── ...
 ├── .gitignore
-├── info.log
+├── LICENSE
 ├── pyproject.toml
 ├── README.md
 ├── setup.cfg
