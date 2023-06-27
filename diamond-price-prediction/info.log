@@ -1,0 +1,185 @@
+2023-06-26 15:35:39,215 - kedro.framework.session.session - INFO - Kedro project diamond-price-prediction
+2023-06-26 15:35:39,260 - py.warnings - WARNING - C:\Users\pedro\OneDrive\Documentos\diamonds_price_prediction\.diamonds_price_prediction\lib\site-packages\kedro\framework\project\__init__.py:281: UserWarning: The 'diamond_price_prediction.pipelines.data_processing' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-06-26 15:35:39,267 - py.warnings - WARNING - C:\Users\pedro\OneDrive\Documentos\diamonds_price_prediction\.diamonds_price_prediction\lib\site-packages\kedro\framework\project\__init__.py:281: UserWarning: The 'diamond_price_prediction.pipelines.data_science' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-06-26 15:51:24,780 - kedro.framework.session.session - INFO - Kedro project diamond-price-prediction
+2023-06-26 15:51:24,810 - py.warnings - WARNING - C:\Users\pedro\OneDrive\Documentos\diamonds_price_prediction\.diamonds_price_prediction\lib\site-packages\kedro\framework\project\__init__.py:281: UserWarning: The 'diamond_price_prediction.pipelines.data_processing' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-06-26 15:51:24,815 - py.warnings - WARNING - C:\Users\pedro\OneDrive\Documentos\diamonds_price_prediction\.diamonds_price_prediction\lib\site-packages\kedro\framework\project\__init__.py:281: UserWarning: The 'diamond_price_prediction.pipelines.data_science' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-06-26 15:51:39,187 - kedro.framework.session.session - INFO - Kedro project diamond-price-prediction
+2023-06-26 15:51:39,204 - py.warnings - WARNING - C:\Users\pedro\OneDrive\Documentos\diamonds_price_prediction\.diamonds_price_prediction\lib\site-packages\kedro\framework\project\__init__.py:281: UserWarning: The 'diamond_price_prediction.pipelines.data_processing' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-06-26 15:51:39,210 - py.warnings - WARNING - C:\Users\pedro\OneDrive\Documentos\diamonds_price_prediction\.diamonds_price_prediction\lib\site-packages\kedro\framework\project\__init__.py:281: UserWarning: The 'diamond_price_prediction.pipelines.data_science' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-06-26 15:51:45,927 - kedro.framework.session.session - INFO - Kedro project diamond-price-prediction
+2023-06-26 15:51:45,936 - py.warnings - WARNING - C:\Users\pedro\OneDrive\Documentos\diamonds_price_prediction\.diamonds_price_prediction\lib\site-packages\kedro\framework\project\__init__.py:281: UserWarning: The 'diamond_price_prediction.pipelines.data_processing' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-06-26 15:51:45,943 - py.warnings - WARNING - C:\Users\pedro\OneDrive\Documentos\diamonds_price_prediction\.diamonds_price_prediction\lib\site-packages\kedro\framework\project\__init__.py:281: UserWarning: The 'diamond_price_prediction.pipelines.data_science' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-06-26 15:57:53,849 - kedro.framework.session.session - INFO - Kedro project diamond-price-prediction
+2023-06-26 15:57:53,865 - py.warnings - WARNING - C:\Users\pedro\OneDrive\Documentos\diamonds_price_prediction\.diamonds_price_prediction\lib\site-packages\kedro\framework\project\__init__.py:281: UserWarning: The 'diamond_price_prediction.pipelines.data_processing' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-06-26 15:57:53,870 - py.warnings - WARNING - C:\Users\pedro\OneDrive\Documentos\diamonds_price_prediction\.diamonds_price_prediction\lib\site-packages\kedro\framework\project\__init__.py:281: UserWarning: The 'diamond_price_prediction.pipelines.data_science' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-06-26 17:35:25,438 - kedro.framework.session.session - INFO - Kedro project diamond-price-prediction
+2023-06-26 17:35:25,460 - py.warnings - WARNING - C:\Users\pedro\OneDrive\Documentos\diamonds_price_prediction\.diamonds_price_prediction\lib\site-packages\kedro\framework\project\__init__.py:281: UserWarning: The 'diamond_price_prediction.pipelines.data_processing' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-06-26 17:35:25,469 - py.warnings - WARNING - C:\Users\pedro\OneDrive\Documentos\diamonds_price_prediction\.diamonds_price_prediction\lib\site-packages\kedro\framework\project\__init__.py:281: UserWarning: The 'diamond_price_prediction.pipelines.data_science' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-06-26 18:02:12,522 - kedro.framework.session.session - INFO - Kedro project diamond-price-prediction
+2023-06-26 18:02:12,550 - py.warnings - WARNING - C:\Users\pedro\OneDrive\Documentos\diamonds_price_prediction\.diamonds_price_prediction\lib\site-packages\kedro\framework\project\__init__.py:281: UserWarning: The 'diamond_price_prediction.pipelines.data_processing' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-06-26 18:02:12,556 - py.warnings - WARNING - C:\Users\pedro\OneDrive\Documentos\diamonds_price_prediction\.diamonds_price_prediction\lib\site-packages\kedro\framework\project\__init__.py:281: UserWarning: The 'diamond_price_prediction.pipelines.data_science' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-06-26 18:03:18,332 - kedro.framework.session.session - INFO - Kedro project diamond-price-prediction
+2023-06-26 18:03:18,342 - py.warnings - WARNING - C:\Users\pedro\OneDrive\Documentos\diamonds_price_prediction\.diamonds_price_prediction\lib\site-packages\kedro\framework\project\__init__.py:281: UserWarning: The 'diamond_price_prediction.pipelines.data_processing' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-06-26 18:03:18,348 - py.warnings - WARNING - C:\Users\pedro\OneDrive\Documentos\diamonds_price_prediction\.diamonds_price_prediction\lib\site-packages\kedro\framework\project\__init__.py:281: UserWarning: The 'diamond_price_prediction.pipelines.data_science' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-06-26 18:11:28,690 - kedro.framework.session.session - INFO - Kedro project diamond-price-prediction
+2023-06-26 18:14:22,226 - kedro.framework.session.session - INFO - Kedro project diamond-price-prediction
+2023-06-26 18:21:57,411 - kedro.framework.session.session - INFO - Kedro project diamond-price-prediction
+2023-06-26 18:21:59,889 - py.warnings - WARNING - C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\importlib\__init__.py:126: DeprecationWarning: `kedro.extras.datasets` is deprecated and will be removed in Kedro 0.19, install `kedro-datasets` instead by running `pip install kedro-datasets`.
+  return _bootstrap._gcd_import(name[level:], package, level)
+
+2023-06-26 18:23:29,021 - kedro.framework.session.session - INFO - Kedro project diamond-price-prediction
+2023-06-26 18:23:32,600 - py.warnings - WARNING - C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\importlib\__init__.py:126: DeprecationWarning: `kedro.extras.datasets` is deprecated and will be removed in Kedro 0.19, install `kedro-datasets` instead by running `pip install kedro-datasets`.
+  return _bootstrap._gcd_import(name[level:], package, level)
+
+2023-06-26 18:25:53,982 - kedro.framework.session.session - INFO - Kedro project diamond-price-prediction
+2023-06-26 18:25:56,422 - py.warnings - WARNING - C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\importlib\__init__.py:126: DeprecationWarning: `kedro.extras.datasets` is deprecated and will be removed in Kedro 0.19, install `kedro-datasets` instead by running `pip install kedro-datasets`.
+  return _bootstrap._gcd_import(name[level:], package, level)
+
+2023-06-26 18:28:30,492 - kedro.framework.session.session - INFO - Kedro project diamond-price-prediction
+2023-06-26 18:28:32,938 - py.warnings - WARNING - C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\importlib\__init__.py:126: DeprecationWarning: `kedro.extras.datasets` is deprecated and will be removed in Kedro 0.19, install `kedro-datasets` instead by running `pip install kedro-datasets`.
+  return _bootstrap._gcd_import(name[level:], package, level)
+
+2023-06-26 18:28:33,222 - kedro.io.data_catalog - INFO - Loading data from 'diamonds' (CSVDataSet)...
+2023-06-26 18:28:33,372 - kedro.pipeline.node - INFO - Running node: outlier_removal_node: outlier_removal([diamonds]) -> [outlier_removal_diamonds]
+2023-06-26 18:28:33,462 - kedro.io.data_catalog - INFO - Saving data to 'outlier_removal_diamonds' (ParquetDataSet)...
+2023-06-26 18:28:33,616 - kedro.runner.sequential_runner - INFO - Completed 1 out of 5 tasks
+2023-06-26 18:28:33,619 - kedro.io.data_catalog - INFO - Loading data from 'outlier_removal_diamonds' (ParquetDataSet)...
+2023-06-26 18:28:33,951 - kedro.pipeline.node - INFO - Running node: drop_duplicates_node: drop_duplicates([outlier_removal_diamonds]) -> [final_diamonds]
+2023-06-26 18:28:34,030 - kedro.io.data_catalog - INFO - Saving data to 'final_diamonds' (ParquetDataSet)...
+2023-06-26 18:28:34,098 - kedro.runner.sequential_runner - INFO - Completed 2 out of 5 tasks
+2023-06-26 18:28:34,101 - kedro.io.data_catalog - INFO - Loading data from 'final_diamonds' (ParquetDataSet)...
+2023-06-26 18:28:34,147 - kedro.io.data_catalog - INFO - Loading data from 'params:model_options' (MemoryDataSet)...
+2023-06-26 18:28:34,169 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([final_diamonds,params:model_options]) -> [X_train,X_test,y_train,y_test]
+2023-06-26 18:28:34,231 - kedro.io.data_catalog - INFO - Saving data to 'X_train' (MemoryDataSet)...
+2023-06-26 18:28:34,254 - kedro.io.data_catalog - INFO - Saving data to 'X_test' (MemoryDataSet)...
+2023-06-26 18:28:34,269 - kedro.io.data_catalog - INFO - Saving data to 'y_train' (MemoryDataSet)...
+2023-06-26 18:28:34,274 - kedro.io.data_catalog - INFO - Saving data to 'y_test' (MemoryDataSet)...
+2023-06-26 18:28:34,278 - kedro.runner.sequential_runner - INFO - Completed 3 out of 5 tasks
+2023-06-26 18:28:34,281 - kedro.io.data_catalog - INFO - Loading data from 'X_train' (MemoryDataSet)...
+2023-06-26 18:28:34,294 - kedro.io.data_catalog - INFO - Loading data from 'y_train' (MemoryDataSet)...
+2023-06-26 18:28:34,312 - kedro.pipeline.node - INFO - Running node: train_model_node: train_model([X_train,y_train]) -> [regressor]
+2023-06-26 18:28:34,361 - kedro.io.data_catalog - INFO - Saving data to 'regressor' (PickleDataSet)...
+2023-06-26 18:28:34,370 - kedro.runner.sequential_runner - INFO - Completed 4 out of 5 tasks
+2023-06-26 18:28:34,372 - kedro.io.data_catalog - INFO - Loading data from 'regressor' (PickleDataSet)...
+2023-06-26 18:28:34,384 - kedro.io.data_catalog - INFO - Loading data from 'X_test' (MemoryDataSet)...
+2023-06-26 18:28:34,397 - kedro.io.data_catalog - INFO - Loading data from 'y_test' (MemoryDataSet)...
+2023-06-26 18:28:34,412 - kedro.pipeline.node - INFO - Running node: evaluate_model_node: evaluate_model([regressor,X_test,y_test]) -> None
+2023-06-26 18:28:34,420 - diamond_price_prediction.pipelines.data_science.nodes - INFO - Model has a coefficient R^2 of 0.869 on test data.
+2023-06-26 18:28:34,434 - kedro.runner.sequential_runner - INFO - Completed 5 out of 5 tasks
+2023-06-26 18:28:34,438 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2023-06-26 19:02:09,600 - kedro.framework.session.session - INFO - Kedro project diamond-price-prediction
+2023-06-26 19:02:13,501 - py.warnings - WARNING - C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\importlib\__init__.py:126: DeprecationWarning: `kedro.extras.datasets` is deprecated and will be removed in Kedro 0.19, install `kedro-datasets` instead by running `pip install kedro-datasets`.
+  return _bootstrap._gcd_import(name[level:], package, level)
+
+2023-06-26 19:02:42,422 - kedro.framework.session.session - INFO - Kedro project diamond-price-prediction
+2023-06-26 19:02:43,519 - py.warnings - WARNING - C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\importlib\__init__.py:126: DeprecationWarning: `kedro.extras.datasets` is deprecated and will be removed in Kedro 0.19, install `kedro-datasets` instead by running `pip install kedro-datasets`.
+  return _bootstrap._gcd_import(name[level:], package, level)
+
+2023-06-26 19:02:43,704 - kedro.io.data_catalog - INFO - Loading data from 'diamonds' (CSVDataSet)...
+2023-06-26 19:02:43,708 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2023-06-26 19:04:52,700 - kedro.framework.session.session - INFO - Kedro project diamond-price-prediction
+2023-06-26 19:04:55,363 - py.warnings - WARNING - C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\importlib\__init__.py:126: DeprecationWarning: `kedro.extras.datasets` is deprecated and will be removed in Kedro 0.19, install `kedro-datasets` instead by running `pip install kedro-datasets`.
+  return _bootstrap._gcd_import(name[level:], package, level)
+
+2023-06-26 19:04:55,655 - kedro.io.data_catalog - INFO - Loading data from 'diamonds' (CSVDataSet)...
+2023-06-26 19:04:55,659 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2023-06-26 19:06:25,305 - kedro.framework.session.session - INFO - Kedro project diamond-price-prediction
+2023-06-26 19:06:28,138 - py.warnings - WARNING - C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\importlib\__init__.py:126: DeprecationWarning: `kedro.extras.datasets` is deprecated and will be removed in Kedro 0.19, install `kedro-datasets` instead by running `pip install kedro-datasets`.
+  return _bootstrap._gcd_import(name[level:], package, level)
+
+2023-06-26 19:06:28,438 - kedro.io.data_catalog - INFO - Loading data from 'diamonds' (CSVDataSet)...
+2023-06-26 19:06:28,571 - kedro.pipeline.node - INFO - Running node: outlier_removal_node: outlier_removal([diamonds]) -> [outlier_removal_diamonds]
+2023-06-26 19:06:28,652 - kedro.io.data_catalog - INFO - Saving data to 'outlier_removal_diamonds' (ParquetDataSet)...
+2023-06-26 19:06:28,765 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2023-06-26 19:07:43,794 - kedro.framework.session.session - INFO - Kedro project diamond-price-prediction
+2023-06-26 19:07:44,866 - py.warnings - WARNING - C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\importlib\__init__.py:126: DeprecationWarning: `kedro.extras.datasets` is deprecated and will be removed in Kedro 0.19, install `kedro-datasets` instead by running `pip install kedro-datasets`.
+  return _bootstrap._gcd_import(name[level:], package, level)
+
+2023-06-26 19:07:45,015 - kedro.io.data_catalog - INFO - Loading data from 'diamonds' (CSVDataSet)...
+2023-06-26 19:07:45,104 - kedro.pipeline.node - INFO - Running node: outlier_removal_node: outlier_removal([diamonds]) -> [outlier_removal_diamonds]
+2023-06-26 19:07:45,175 - kedro.io.data_catalog - INFO - Saving data to 'outlier_removal_diamonds' (ParquetDataSet)...
+2023-06-26 19:07:45,254 - kedro.runner.sequential_runner - INFO - Completed 1 out of 5 tasks
+2023-06-26 19:07:45,256 - kedro.io.data_catalog - INFO - Loading data from 'outlier_removal_diamonds' (ParquetDataSet)...
+2023-06-26 19:07:45,389 - kedro.pipeline.node - INFO - Running node: drop_duplicates_node: drop_duplicates([outlier_removal_diamonds]) -> [diamonds_preprocessed]
+2023-06-26 19:07:45,454 - kedro.io.data_catalog - INFO - Saving data to 'diamonds_preprocessed' (ParquetDataSet)...
+2023-06-26 19:07:45,517 - kedro.runner.sequential_runner - INFO - Completed 2 out of 5 tasks
+2023-06-26 19:07:45,520 - kedro.io.data_catalog - INFO - Loading data from 'diamonds_preprocessed' (ParquetDataSet)...
+2023-06-26 19:07:45,558 - kedro.io.data_catalog - INFO - Loading data from 'params:model_options' (MemoryDataSet)...
+2023-06-26 19:07:45,574 - kedro.pipeline.node - INFO - Running node: split_data: split_data([diamonds_preprocessed,params:model_options]) -> [X_train,X_test,y_train,y_test]
+2023-06-26 19:07:45,623 - kedro.io.data_catalog - INFO - Saving data to 'X_train' (MemoryDataSet)...
+2023-06-26 19:07:45,643 - kedro.io.data_catalog - INFO - Saving data to 'X_test' (MemoryDataSet)...
+2023-06-26 19:07:45,654 - kedro.io.data_catalog - INFO - Saving data to 'y_train' (MemoryDataSet)...
+2023-06-26 19:07:45,658 - kedro.io.data_catalog - INFO - Saving data to 'y_test' (MemoryDataSet)...
+2023-06-26 19:07:45,663 - kedro.runner.sequential_runner - INFO - Completed 3 out of 5 tasks
+2023-06-26 19:07:45,665 - kedro.io.data_catalog - INFO - Loading data from 'X_train' (MemoryDataSet)...
+2023-06-26 19:07:45,678 - kedro.io.data_catalog - INFO - Loading data from 'y_train' (MemoryDataSet)...
+2023-06-26 19:07:45,693 - kedro.pipeline.node - INFO - Running node: train_model: train_model([X_train,y_train]) -> [regressor]
+2023-06-26 19:07:45,733 - kedro.io.data_catalog - INFO - Saving data to 'regressor' (PickleDataSet)...
+2023-06-26 19:07:45,737 - kedro.runner.sequential_runner - WARNING - There are 2 nodes that have not run.
+You can resume the pipeline run from the nearest nodes with persisted inputs by adding the following argument to your previous command:
+  --from-nodes "drop_duplicates_node"
+2023-06-26 19:09:33,151 - kedro.framework.session.session - INFO - Kedro project diamond-price-prediction
+2023-06-26 19:09:35,622 - py.warnings - WARNING - C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\importlib\__init__.py:126: DeprecationWarning: `kedro.extras.datasets` is deprecated and will be removed in Kedro 0.19, install `kedro-datasets` instead by running `pip install kedro-datasets`.
+  return _bootstrap._gcd_import(name[level:], package, level)
+
+2023-06-26 19:09:35,914 - kedro.io.data_catalog - INFO - Loading data from 'diamonds' (CSVDataSet)...
+2023-06-26 19:09:36,042 - kedro.pipeline.node - INFO - Running node: outlier_removal_node: outlier_removal([diamonds]) -> [outlier_removal_diamonds]
+2023-06-26 19:09:36,133 - kedro.io.data_catalog - INFO - Saving data to 'outlier_removal_diamonds' (ParquetDataSet)...
+2023-06-26 19:09:36,252 - kedro.runner.sequential_runner - INFO - Completed 1 out of 5 tasks
+2023-06-26 19:09:36,256 - kedro.io.data_catalog - INFO - Loading data from 'outlier_removal_diamonds' (ParquetDataSet)...
+2023-06-26 19:09:36,383 - kedro.pipeline.node - INFO - Running node: drop_duplicates_node: drop_duplicates([outlier_removal_diamonds]) -> [diamonds_preprocessed]
+2023-06-26 19:09:36,446 - kedro.io.data_catalog - INFO - Saving data to 'diamonds_preprocessed' (ParquetDataSet)...
+2023-06-26 19:09:36,506 - kedro.runner.sequential_runner - INFO - Completed 2 out of 5 tasks
+2023-06-26 19:09:36,508 - kedro.io.data_catalog - INFO - Loading data from 'diamonds_preprocessed' (ParquetDataSet)...
+2023-06-26 19:09:36,544 - kedro.io.data_catalog - INFO - Loading data from 'params:model_options' (MemoryDataSet)...
+2023-06-26 19:09:36,558 - kedro.pipeline.node - INFO - Running node: split_data: split_data([diamonds_preprocessed,params:model_options]) -> [X_train,X_test,y_train,y_test]
+2023-06-26 19:09:36,605 - kedro.io.data_catalog - INFO - Saving data to 'X_train' (MemoryDataSet)...
+2023-06-26 19:09:36,622 - kedro.io.data_catalog - INFO - Saving data to 'X_test' (MemoryDataSet)...
+2023-06-26 19:09:36,635 - kedro.io.data_catalog - INFO - Saving data to 'y_train' (MemoryDataSet)...
+2023-06-26 19:09:36,640 - kedro.io.data_catalog - INFO - Saving data to 'y_test' (MemoryDataSet)...
+2023-06-26 19:09:36,647 - kedro.runner.sequential_runner - INFO - Completed 3 out of 5 tasks
+2023-06-26 19:09:36,649 - kedro.io.data_catalog - INFO - Loading data from 'X_train' (MemoryDataSet)...
+2023-06-26 19:09:36,659 - kedro.io.data_catalog - INFO - Loading data from 'y_train' (MemoryDataSet)...
+2023-06-26 19:09:36,672 - kedro.pipeline.node - INFO - Running node: train_model: train_model([X_train,y_train]) -> [regressor]
+2023-06-26 19:09:36,714 - kedro.io.data_catalog - INFO - Saving data to 'regressor' (PickleDataSet)...
+2023-06-26 19:09:36,720 - kedro.runner.sequential_runner - INFO - Completed 4 out of 5 tasks
+2023-06-26 19:09:36,723 - kedro.io.data_catalog - INFO - Loading data from 'regressor' (PickleDataSet)...
+2023-06-26 19:09:36,736 - kedro.io.data_catalog - INFO - Loading data from 'X_test' (MemoryDataSet)...
+2023-06-26 19:09:36,745 - kedro.io.data_catalog - INFO - Loading data from 'y_test' (MemoryDataSet)...
+2023-06-26 19:09:36,757 - kedro.pipeline.node - INFO - Running node: evaluate_model: evaluate_model([regressor,X_test,y_test]) -> None
+2023-06-26 19:09:36,765 - diamond_price_prediction.pipelines.data_science.nodes - INFO - Model has a coefficient R^2 of 0.869 on test data.
+2023-06-26 19:09:36,778 - kedro.runner.sequential_runner - INFO - Completed 5 out of 5 tasks
+2023-06-26 19:09:36,780 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.

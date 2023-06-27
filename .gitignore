@@ -1,2 +1,16 @@
 .diamonds_price_prediction
 
+diamond-price-prediction/conf/local/credentials.yml
+diamond-price-prediction/data/01_raw/diamonds.csv
+diamond-price-prediction/data/02_intermediate/diamonds_preprocessed.pq
+diamond-price-prediction/data/02_intermediate/outlier_removal_diamonds.pq
+diamond-price-prediction/src/diamond_price_prediction/__pycache__/__init__.cpython-310.pyc
+diamond-price-prediction/src/diamond_price_prediction/__pycache__/pipeline_registry.cpython-310.pyc
+diamond-price-prediction/src/diamond_price_prediction/__pycache__/settings.cpython-310.pyc
+diamond-price-prediction/src/diamond_price_prediction/pipelines/__pycache__/__init__.cpython-310.pyc
+diamond-price-prediction/src/diamond_price_prediction/pipelines/data_processing/__pycache__/__init__.cpython-310.pyc
+diamond-price-prediction/src/diamond_price_prediction/pipelines/data_processing/__pycache__/nodes.cpython-310.pyc
+diamond-price-prediction/src/diamond_price_prediction/pipelines/data_processing/__pycache__/pipeline.cpython-310.pyc
+diamond-price-prediction/src/diamond_price_prediction/pipelines/data_science/__pycache__/__init__.cpython-310.pyc
+diamond-price-prediction/src/diamond_price_prediction/pipelines/data_science/__pycache__/nodes.cpython-310.pyc
+diamond-price-prediction/src/diamond_price_prediction/pipelines/data_science/__pycache__/pipeline.cpython-310.pyc
