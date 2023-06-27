@@ -22,8 +22,9 @@ The project follows a structured approach as follows:
 diamond-price-prediction/
 ├── conf/
 │   ├── base/
-│   │   └──
-│   │   └──
+│   │   └──parameters/
+│   │   │    └── data_processing.yml
+│   │   │    └── data_science.yml
 │   │   ├── catalog.yml
 │   │   ├── logging.yml
 │   │   └── parameters.yml
@@ -47,6 +48,10 @@ diamond-price-prediction/
 │   │   └── ...
 │   └── 07_model_output/
 │       └── ...
+├── docs/
+│   └──source/
+│   │   └──conf.py
+│   │   └──index.rst
 ├── img/
 │   └── pipeline.png
 ├── notebooks/
