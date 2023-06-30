@@ -54,4 +54,4 @@ tracking:
 
 ui:
   port: "5000" # the port to use for the ui. Use mlflow default with 5000.
-  host: "127.0.0.1"  # the host to use for the ui. Use mlflow efault of "127.0.0.1".
+  host: "127.0.0.1"  # the host to use for the ui. Use mlflow default of "127.0.0.1".

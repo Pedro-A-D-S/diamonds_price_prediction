@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pedro/OneDrive/Documentos/diamonds_price_prediction/diamond-price-prediction/mlruns/981825938396266200/7245cb1a9aa0491cb007d5fdf2f6bdee/artifacts
+end_time: 1688162186675
+entry_point_name: ''
+experiment_id: '981825938396266200'
+lifecycle_stage: active
+run_id: 7245cb1a9aa0491cb007d5fdf2f6bdee
+run_name: __default__
+run_uuid: 7245cb1a9aa0491cb007d5fdf2f6bdee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688162185592
+status: 3
+tags: []
+user_id: pedro
