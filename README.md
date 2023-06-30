@@ -10,7 +10,7 @@ This project was generated using `Kedro 0.18.10`.
 
 ## Objectives
 <div style = "text-align: justify">
-Develop a diamond price prediction model to accurately estimate the price of diamonds.
+Develop and deploy a diamond price prediction model to accurately estimate the price of diamonds.
 Enhance customer satisfaction by providing fair and transparent pricing information.
 Enable sales representatives to provide real-time pricing estimates to customers.
 Establish GemExquisite as a leader in the diamond industry through data-driven insights.
@@ -38,16 +38,18 @@ diamond-price-prediction/
 │   │   ├── outlier_removal_diamonds.pq
 │   │   └── final_diamonds.pq
 │   ├── 03_primary/
-│   │   └── ...
+│   │   └── diamonds_preprocessed.pq
 │   ├── 04_feature/
 │   │   └── ...
 │   ├── 05_model_input/
 │   │   └── ...
 │   ├── 06_models/
 │   │   ├── regressor.pickle/
-│   │   └── ...
 │   └── 07_model_output/
-│       └── ...
+│       └── X_test.pq
+│       └── X_train.pq
+│       └── y_test.csv
+│       └── y_train.csv
 ├── docs/
 │   └──source/
 │   │   └──conf.py
@@ -71,6 +73,7 @@ diamond-price-prediction/
 │   │   └── pipeline_registry.py
 │   │   └── settings.py
 │   │   └── requirements.txt
+│   │   └── setup.py
 │   └── ...
 ├── tests/
 │   ├── __init__.py
@@ -79,13 +82,34 @@ diamond-price-prediction/
 ├── .gitignore
 ├── LICENSE
 ├── pyproject.toml
+├── Dockerfile
 ├── README.md
 ├── setup.cfg
 ```
 
-## How to run
+## How to run using Docker
 
-To run the diamond price prediction pipeline, follow these steps:
+To run the diamond price pipeline using docker, follow these steps:
+
+1. Install Docker on your machine. You can download Docker from the official website: https://www.docker.com/
+
+2. Pull the Docker image for the diamond price prediction project from Docker Hub using the following command:
+
+```
+docker pull <your-user-name>/diamond-price-prediction
+```
+
+Once the image is downloaded, tou can run a Docker container with the following command:
+
+```
+docker run -it <your-user-name>/diamond-price-prediction
+```
+
+Inside the Docker container, navigate to the project directory:
+
+```
+cd diamond-price-prediction
+```
 
 Install the project dependencies by running:
 
@@ -105,13 +129,14 @@ Visualize the pipeline using:
 kedro viz
 ```
 
+
 This pipeline is divided in two main steps: data preprocessing and model training pipelines (both inside src/pipelines)
 
 ![Pipeline](/diamond-price-prediction/img/pipeline.png)
 
 ## Next Steps
 
-Once the model is successfully trained and evaluated, it can be deployed into GemExquisite's pricing system, enabling real-time price estimation for diamonds. This will enhance the customer experience and establish GemExquisite as a trusted provider of high-quality diamonds with transparent pricing information.
+Once the model is successfully trained and evaluated, it can be deployed into GemExquisite's pricing system, enabling real-time or batch price estimation for diamonds. This will enhance the customer experience and establish GemExquisite as a trusted provider of high-quality diamonds with transparent pricing information.
 
 ## Contribuiting
 
