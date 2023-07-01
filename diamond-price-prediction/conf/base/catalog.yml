@@ -1,0 +1,32 @@
+diamonds:
+  type: pandas.CSVDataSet
+  filepath: data/01_raw/diamonds.csv
+
+outlier_removal_diamonds:
+  type: pandas.ParquetDataSet
+  filepath: data/02_intermediate/outlier_removal_diamonds.pq
+
+diamonds_preprocessed:
+  type: pandas.ParquetDataSet
+  filepath: data/03_primary/diamonds_preprocessed.pq
+
+regressor:
+  type: pickle.PickleDataSet
+  filepath: data/06_models/regressor.pickle
+  versioned: true
+
+X_train:
+  type: pandas.ParquetDataSet
+  filepath: data/05_model_input/X_train.pq
+
+X_test:
+  type: pandas.ParquetDataSet
+  filepath: data/05_model_input/X_test.pq
+
+y_train:
+  type: pandas.CSVDataSet
+  filepath: data/05_model_input/y_train.csv
+
+y_test:
+  type: pandas.CSVDataSet
+  filepath: data/05_model_input/y_test.csv

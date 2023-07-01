@@ -1,8 +1,0 @@
-model_options:
-  test_size: 0.2
-  random_state: 2811
-  features:
-    - carat
-    - x
-    - y
-    - z
