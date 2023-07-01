@@ -16,6 +16,5 @@ def create_pipeline(**kwargs) -> Pipeline:
                 outputs = 'diamonds_preprocessed',
                 name = 'drop_duplicates_node'
             )
-        ],
-        name = 'data_processing'
+        ]
     )

@@ -22,6 +22,5 @@ def create_pipeline(**kwargs) -> Pipeline:
                 outputs=None,
                 name='evaluate_model'
             )
-        ],
-        name = 'data_science'
+        ]
     )
