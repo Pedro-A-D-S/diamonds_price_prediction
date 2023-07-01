@@ -1,0 +1,2 @@
+[console_scripts]
+diamond-price-prediction = diamond_price_prediction.__main__:main
