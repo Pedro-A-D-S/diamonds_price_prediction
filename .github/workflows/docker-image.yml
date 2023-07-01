@@ -21,4 +21,4 @@ jobs:
       run: docker login --username $DOCKERHUB_USERNAME --password-stdin <<< $DOCKERHUB_TOKEN
 
     - name: Push the Docker image to Docker Hub
-      run: docker push $DOCKERHUB_USERNAME/my-image-name:$IMAGE_TAG
+      run: docker push $DOCKERHUB_USERNAME/my-image-name:$(date +%s)
