@@ -6,3 +6,11 @@ model_options:
     - x
     - y
     - z
+
+model_options_test:
+  test_size: 0.2
+  random_state: 42
+  features:
+    - x
+    - y
+    - z
